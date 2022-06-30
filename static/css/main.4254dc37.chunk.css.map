@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACb,YAGC,aAAsB","file":"main.4254dc37.chunk.css","sourcesContent":["// styles go here\n.App {\n  margin: 20px;\n}\n\n.activeLink {\n  color: rgb(18, 0, 176);\n}\n"]}
